@@ -1,3 +1,9 @@
+##index
+
+Welcome to the site
+
+![](http://stuffpoint.com/puppies/image/43732-puppies-husky-puppy.jpg)
+
 ##idea
 
 In 2006, I started thinking about building a cabin.  I wanted a place where my friends, family, and I could go and be without the pressures of school, work, and expectations.  Every free weekend was already spent camping on family [land](#land) about an hour from our hometown, and this seemed like the perfect spot.  I was a senior in high school and didn't know if I was going to stay in the area, but I wanted a spot I could always come back to.  I recruited my dad who is an incredible contractor. 

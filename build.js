@@ -2,37 +2,28 @@ var fs = require('fs')
 var rimraf = require('rimraf')
 var marked = require('marked')
 
-rimraf.sync('./www')
-fs.mkdirSync('./www')
-
-var markdown = fs.readFileSync('./index.md', 'utf8')
-
+var markdown = fs.readFileSync('./pages.md', 'utf8')
 var sections = parsePages(markdown)
 
 sections.forEach(function(section){
-  fs.writeFileSync('./www/'+section.name+'.html', section.content) 
+  fs.writeFileSync('./'+section.name+'.html', section.content) 
 })
 
-createIndex(sections)
-
-fs.writeFileSync('./www/site.css', fs.readFileSync('./site.css', 'utf8'))
-
-function createIndex(sections) {
+function createNav(sections) {
   var html = ''
-  html += '<html>'
-  html += '<head>'
-  html += '<link rel="stylesheet" type="text/css" href="site.css">'
-  html += '</head>'
-  html += '<body>'
-  html += '<h1>Wolf Cabin</h1>'
-  sections.forEach(function(section){
-    html += '<h3><a href="'+section.name+'.html">'+section.name+'</a></h3>'
+  html += '<h1><a class="navlink" href="index.html">Wolf Cabin</a></h1>'
+  html += '<div class="navwrapper">'
+  html += '<div class="navpanel">'
+  sections.forEach(function(section, i){
+    if(i !== 0) // don't add a navlink for index
+      html += '<div><a class="navlink pagelink" href="'+section.name+'.html">'+section.name+'</a></div>'
   })
-  html += '</body></html>'
-  fs.writeFileSync('./www/index.html', html) 
+  html += '<hr>'
+  html += '</div>'
+  html += '</div>'
+
+  return html
 }
-
-
 
 function parsePages(markdown) {
   //split the content into sections
@@ -54,10 +45,13 @@ function parsePages(markdown) {
     html += '<link rel="stylesheet" type="text/css" href="site.css">'
     html += '</head>'
     html += '<body>'
-    html += marked(lines.join('\n'))
-    html += '<a href="index.html">home</a>'
+    html += '%nav%'
+    html += '<div class="content">' + marked(lines.join('\n')) + '</div>'
     html += '</body></html>'
     sections.push({name: name, content: html})
+  })
+  sections.forEach(function(section){
+    section.content = section.content.split('%nav%').join(createNav(sections))
   })
   return sections
 }

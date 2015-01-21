@@ -46,6 +46,7 @@ function parsePages(markdown) {
     html += '</head>'
     html += '<body>'
     html += '%nav%'
+    if(name !== 'index')html += '<h1>'+name+'</h1>'
     html += '<div class="content">' + marked(lines.join('\n')) + '</div>'
     html += '</body></html>'
     sections.push({name: name, content: html})

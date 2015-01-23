@@ -2,27 +2,29 @@
 
 Welcome to the site
 
-![cabin](https://dl-web.dropbox.com/get/Camera%20Uploads/2014-11-18%2017.07.47.jpg?_subject_uid=42957653&w=AACEwoQ16QBD5xp0KWnGyUqgfyycqTUKiNc3_ltlA3jh0A)
+![cabin](https://dl.dropboxusercontent.com/s/mi2plgu4oo5mvcx/Screenshot%202015-01-20%2021.09.13.jpg?dl=0)
 
 ##Concept
 
-In 2006, I started thinking about building a cabin on some family land](#land) about an hour from my hometown.  I wanted a place where my friends, family, or I could get away. I was a senior in high school and didn't know if I was going to stay in the area, but I wanted a spot I could always come back to. 
+In 2006, I started thinking about building a cabin on some family [land](#land) about an hour from my hometown.  I wanted a place where my friends, family, or I could get away. I was a senior in high school and didn't know if I was going to stay in the area, but I wanted a spot I could always come back to. 
 
-I recruited my dad who is an incredible contractor. We started talking about what it would take to build a 12'x16' one room cabin with a loft.  I envisioned the space to be like a glorified tent: no plumbing, minimal electrical, and an outdoor kitchen.  Everything about it draws you outside.  He graciously offered to let me use a large chunk of [reclaimed materials](#reclaimedmaterials) he had saved up over the years. Over the next three years, I started saving money and gathering ideas, and he started squirreling away more reclaimed supplies.  We envisioned the project taking about three weeks of solid work and costing a few thousand bucks.
+I recruited my dad who is an custom home contractor. We started talking about what it would take to build a 12'x16' one room cabin with a loft.  I envisioned the space to be like a glorified tent: no plumbing, minimal electrical, and an outdoor kitchen.  Everything about it would draw you outside.  He graciously offered to let me use a large chunk of [reclaimed materials](#reclaimedmaterials) he had saved up over the years. Over the next three years, I started saving money and gathering ideas, and he started squirreling away more reclaimed supplies.  We envisioned the project taking about three weeks of solid work and costing a few thousand bucks. 
+
+It didn't take three weeks and it's not a glorified tent.
 
    
 Reclaimed materials
 ---
 
-The idea of using reclaimed materials really resonated me: 
+The idea of using reclaimed materials really resonated with me: 
   - save $$$
   - fewer things going to the landfill (if you haven't been before GO, it is a sobering experience)
   - the aesthetic of old and used 
-  - cleaning out my parents exploding garage
+  - cleaning out my parents' exploding garage
   
-It also comes with challenges.  You need to have a **source**.  Thankfully my dad renovates homes and is always looking for useable materials.  Craigslist, Habitat stores, and local reclaimed material stores also are a great places to find supplies.
+It also comes with challenges.  You need to have a **source**.  Thankfully my dad renovates homes and is always looking for useable materials.  Craigslist, Habitat stores, and local reclaimed material stores also are great places to find supplies.
 
-We knew that we had to clean up the supplies to make it useable and this would take **time**, but this process consistantly took WAY longer than expected.  For example, my mom and I spent an entire week cleaning up interior paneling.  We pulled thousands of rusty nails, cleaned, sanded, and primed boards. After it was prepped, the installation took more time and patience.  Most of the wood was warped or missing tongue and groove, and required brute force and creativity to get into place.
+We knew that we had to clean up the supplies to make them useable and this would take **time**, but this process consistently took WAY longer than expected.  For example, my mom and I spent an entire week cleaning up interior paneling.  We pulled thousands of rusty nails, cleaned, sanded, and primed boards. After it was prepped, the installation took more time and patience.  Most of the wood was warped or missing tongue and groove, and required brute force and creativity to get into place.
 
 Using reclaimed materials also requires flexibility with **design** details.  We used three different materials for the siding: cedar shakes, wood siding, and hardie sheets.   The wood siding was reclaimed, but we only had enough to do 3/4th of the cabin.  We put cedar shakes on the front of the cabin and hardie plank on the chimney.
 
@@ -87,7 +89,7 @@ Interior
 ----
 
 
-##Complication and Oops
+##Complications
 
 Three weeks! That is the original amout of time we thought it would take to build the cabin.  Six years would of been a much better estimation. That's 104x longer!  Looking back there were a few things that led to this project taking wayyyy longer than expected: [communication](#communication), [time](#time), and [design](#design).  I shed alot of tears and has some heated conversations with my dad thinking this project would never be completed.  For a few years, I couldn't even talk about the cabin unless we were actually working on it.  Looking back, I've grown so much from this project and the complications.  I couldn't be happier with how it turned out!
 
@@ -129,7 +131,7 @@ We chose two design details that added years to the construction phase.  Both of
 ![Porch roof](https://dl-web.dropbox.com/get/cabinarrowroof.jpg?_subject_uid=42957653&w=AADstXYsQ9Jia6RxOSAC-ZBXIQdT2BrJ5F5piYk9gmyr6w)
 
 ##Future
-My husband likes to ask "Is the cabin done?" and I always say yes and no.  The interior of the cabin is finished, but there is so much more I want to do.  The outdoor kitchen, outhouse, and shower house aren't yet built.  We still rely upon a generator and propane for energy, and gallons water for drinking and hygiene.   If money was not an issue I would love to knock all of these things out.  We plan to save up over the next few years and work on these things we can.  
+My husband likes to ask "Is the cabin done?" and I always say yes and no.  The interior of the cabin is finished, but there is so much more I want to do.  The outdoor kitchen, outhouse, and shower house aren't yet built.  We still rely upon a generator and propane for energy, and haul in gallons of water for drinking and hygiene.   If money was not an issue I would love to knock all of these things out.  We plan to save up over the next few years and work on these things we can.  
 
 Outhouse
 ---
